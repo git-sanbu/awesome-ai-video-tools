@@ -40,6 +40,9 @@ Current status: studio preview is open; public video generation and checkout are
 | [Kling AI](https://klingai.com/) | AI video and image generation. | [Source](https://klingai.com/) |
 | [Google Veo](https://deepmind.google/models/veo/) | Google DeepMind video-generation model information and examples. | [Source](https://deepmind.google/models/veo/) |
 | [GrokVideo Studio](https://grokvideogenerator.dev/) | Independent text/image-to-video using xAI Grok Imagine API (not official xAI/X). Free trial. | [Source](https://grokvideogenerator.dev/) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com/) | Independent AI: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok. | [Source](https://alorsondansevideo.com/) |
+| [Bad Times AI](https://badtimesai.dev/) | Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). | [Source](https://badtimesai.dev/) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). | [Source](https://ifoundyouinthecrowdai.com/) |
 
 <a id="avatar-video"></a>
 
