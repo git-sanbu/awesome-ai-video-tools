@@ -39,6 +39,7 @@ Current status: studio preview is open; public video generation and checkout are
 | [Luma](https://lumalabs.ai/) | Creative AI for visual and video workflows. | [Source](https://lumalabs.ai/) |
 | [Kling AI](https://klingai.com/) | AI video and image generation. | [Source](https://klingai.com/) |
 | [Google Veo](https://deepmind.google/models/veo/) | Google DeepMind video-generation model information and examples. | [Source](https://deepmind.google/models/veo/) |
+| [GrokVideo Studio](https://grokvideogenerator.dev/) | Independent text/image-to-video using xAI Grok Imagine API (not official xAI/X). Free trial. | [Source](https://grokvideogenerator.dev/) |
 
 <a id="avatar-video"></a>
 
@@ -57,6 +58,7 @@ Current status: studio preview is open; public video generation and checkout are
 |---|---|---|
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Adobe generative AI for image, design and video workflows. | [Source](https://www.adobe.com/products/firefly.html) |
 | [Midjourney](https://www.midjourney.com/) | AI image creation. | [Source](https://www.midjourney.com/) |
+| [PromptImage](https://promptimage.cloud/) | Free AI image gallery + image/video generator (Freemium). | [Source](https://promptimage.cloud/) |
 
 <a id="assistants-search"></a>
 
