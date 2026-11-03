@@ -39,6 +39,13 @@ Current status: studio preview is open; public video generation and checkout are
 | [Luma](https://lumalabs.ai/) | Creative AI for visual and video workflows. | [Source](https://lumalabs.ai/) |
 | [Kling AI](https://klingai.com/) | AI video and image generation. | [Source](https://klingai.com/) |
 | [Google Veo](https://deepmind.google/models/veo/) | Google DeepMind video-generation model information and examples. | [Source](https://deepmind.google/models/veo/) |
+| [GrokVideo Studio](https://grokvideogenerator.dev/) | Independent text/image-to-video using xAI Grok Imagine API (not official xAI/X). Free trial. | [Source](https://grokvideogenerator.dev/) |
+| [Alors On Danse Video Maker](https://alorsondansevideo.com/) | Independent AI: two photos → 13s studio dance video (Paid). Not affiliated with Stromae/TikTok. | [Source](https://alorsondansevideo.com/) |
+| [Bad Times AI](https://badtimesai.dev/) | Independent AI dance effect: one photo → 14–15s portrait dance video (Paid from $7.99). | [Source](https://badtimesai.dev/) |
+| [I Found You in the Crowd AI](https://ifoundyouinthecrowdai.com/) | Independent AI scene effect: two photos → balcony/spotlight meeting video (Paid from $7.99). | [Source](https://ifoundyouinthecrowdai.com/) |
+| [KDA Firestarter AI Dance](https://kdafirestarterai.dev/) | Independent unofficial AI tool: one photo → 13s 480p 21:9 solo dance video (Paid from $7.99). Not affiliated with Riot Games or K/DA. | [Source](https://kdafirestarterai.dev/) |
+| [A2O LITE NEON AI Dance](https://a2oliteai.org/) | Independent AI tool: two photos → 15s 480p 16:9 duo dance video with reference soundtrack (Paid from $7.99). Unofficial. | [Source](https://a2oliteai.org/) |
+| [dime dime baby ai](https://dimedimebabyai.dev/) | Independent AI tool: one photo → ~5s 480p 9:16 AI dance video (Quince Classic or Party Groove) (Paid from $7.99). | [Source](https://dimedimebabyai.dev/) |
 
 <a id="avatar-video"></a>
 
@@ -57,6 +64,7 @@ Current status: studio preview is open; public video generation and checkout are
 |---|---|---|
 | [Adobe Firefly](https://www.adobe.com/products/firefly.html) | Adobe generative AI for image, design and video workflows. | [Source](https://www.adobe.com/products/firefly.html) |
 | [Midjourney](https://www.midjourney.com/) | AI image creation. | [Source](https://www.midjourney.com/) |
+| [PromptImage](https://promptimage.cloud/) | Free AI image gallery + image/video generator (Freemium). | [Source](https://promptimage.cloud/) |
 
 <a id="assistants-search"></a>
 
