@@ -17,6 +17,7 @@ Current status: studio preview is open; public video generation and checkout are
 - [Couple photos & character effects](#photo-effects)
 - [AI video generation & model references](#video-generation)
 - [AI avatars & business video](#avatar-video)
+- [AI video editing](#video-editing)
 - [AI images & creative design](#image-design)
 - [AI assistants & research](#assistants-search)
 
@@ -48,6 +49,14 @@ Current status: studio preview is open; public video generation and checkout are
 |---|---|---|
 | [HeyGen](https://www.heygen.com/) | AI avatar video creation. | [Source](https://www.heygen.com/) |
 | [Synthesia](https://www.synthesia.io/) | Business video creation with AI avatars. | [Source](https://www.synthesia.io/) |
+
+<a id="video-editing"></a>
+
+## AI video editing
+
+| Tool | What makes it useful | Official source |
+|---|---|---|
+| [Vidmoat](https://www.vidmoat.com/) | Hosted AI video editor with a real reviewable timeline; chat, Telegram, and MCP. | [Source](https://www.vidmoat.com/) |
 
 <a id="image-design"></a>
 
