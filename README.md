@@ -39,6 +39,7 @@ Current status: studio preview is open; public video generation and checkout are
 | [Luma](https://lumalabs.ai/) | Creative AI for visual and video workflows. | [Source](https://lumalabs.ai/) |
 | [Kling AI](https://klingai.com/) | AI video and image generation. | [Source](https://klingai.com/) |
 | [Google Veo](https://deepmind.google/models/veo/) | Google DeepMind video-generation model information and examples. | [Source](https://deepmind.google/models/veo/) |
+| [Cyanvid](https://cyanvid.com/?utm_source=git-sanbu-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) | AI video generator from text or images; credit quotes before generate. | [Source](https://cyanvid.com/?utm_source=git-sanbu-awesome-ai-video-tools&utm_medium=directory&utm_campaign=backlinks) |
 
 <a id="avatar-video"></a>
 
